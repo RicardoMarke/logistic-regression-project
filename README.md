@@ -26,3 +26,8 @@ Construir um modelo preditivo que possa classificar corretamente se uma pessoa s
    - Matriz de confusão
    - Precisão, Recall, F1-Score
    - Curva ROC
+  
+   - ## ✍️ Autor
+
+Ricardo Markevicius  
+[LinkedIn](https://www.linkedin.com/in/ricardo-markevicius) | [Email](mailto:markeviciusricardo@gmail.com)
