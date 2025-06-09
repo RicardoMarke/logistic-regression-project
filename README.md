@@ -30,4 +30,4 @@ Construir um modelo preditivo que possa classificar corretamente se uma pessoa s
    - ## ✍️ Autor
 
 Ricardo Markevicius  
-[LinkedIn][(www.linkedin.com/in/ricardo-markevicius23)](https://www.linkedin.com/in/ricardo-markevicius23/) | [Email](mailto:markeviciusricardo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ricardo-markevicius23/) | [Email](mailto:markeviciusricardo@gmail.com)
